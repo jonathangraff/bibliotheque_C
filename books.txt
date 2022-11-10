@@ -1,0 +1,20 @@
+1;Shining;Stephen King;fantastique;0;1
+2;The Stand;Stephen King;fantastique;0;1
+3;Les Eléments;Euclide;manuel;1654627047;0
+4;Hamlet;Shakespeare;classique;1656228017;0
+5;Roméo et Juliette;Shakespeare;classique;0;1
+6;MacBeth;Shakespeare;classique;0;1
+7;Othello;Shakespeare;classique;0;1
+8;The Dark Tower;Stephen King;fantastique;1656228023;0
+9;The Name of the Wind;Patrick Rothfuss;fantastique;0;1
+10;The Wise Man Fear;Patrick Rothfuss;fantastique;1654627060;0
+11;Le C pour les Nuls;Dan Gookin;manuel;0;1
+12;Le roi Lear;Shakespeare;classique;0;1
+13;Harry Potter à l'école des sorciers;J.K.Rowling;fantastique;0;1
+14;Harry Potter et la chambre des secrets;J.K.Rowling;fantastique;1654627034;0
+15;Harry Potter et le prisonnier d'Azkaban;J.K.Rowling;fantastique;1654627014;0
+16;Harry Potter et la Coupe de feu;J.K.Rowling;fantastique;0;1
+17;Harry Potter et les reliques de la mort;J.K.Rowling;fantastique;0;1
+18;Le Seigneur des Anneaux - La Communauté de l'Anneau;J.R.R. Tolkien;fantastique;0;1
+19;Le Seigneur des Anneaux - Les deux tours;J.R.R Tolkien;fantastique;0;1
+20;The Doors of Stone;Patrick Rothfuss;fantastique;0;1
